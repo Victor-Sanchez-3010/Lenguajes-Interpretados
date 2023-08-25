@@ -1,7 +1,7 @@
 # **¡Hola mundo, mi nombre es _Victor Sanchez_!** 
 ### _Soy estudiante de la carrera "Desarrollo de software interactivo y videojuegos" y tengo 18 años actualmente. Escogí esta carrera porque como a todos los que estamos aquí, nos gustan los videojuegos, además de que siempre quise saber como se hacian posible los videojuegos y me gusta la programación. Al terminar la carrera me gustaría mucho poder trabajar tanto como para una empresa AAA, tener mis propios proyectos personales y también trabajar con mis amigos, tal vez hasta hacer una pequeña empresa juntos._
 
-![uwu](/IMG/foto.jpg)  
+![uwu](/IMG/Foto2.jpeg)  
 
 ## **Pasatiempos** 
 - Programar 
